@@ -1,15 +1,15 @@
 ﻿using System;
 using System.Linq;
-using GigaPenter.Renderer.Monogame.Helper;
-using GigaPenter.Renderer.Monogame.Input;
+using GigaPenterEngine.Renderer.Monogame.Input;
+using GigaPenterEngine.Renderer.Monogame.Helper;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace GigaPenter.Renderer.Monogame;
+namespace GigaPenterEngine.Renderer.Monogame;
 
 // The actual MonoGame instance
-internal class MonoGame : Game
+internal class MonoGame : Microsoft.Xna.Framework.Game
 {
     public GraphicsDeviceManager _graphics;
     public SpriteBatch _spriteBatch;

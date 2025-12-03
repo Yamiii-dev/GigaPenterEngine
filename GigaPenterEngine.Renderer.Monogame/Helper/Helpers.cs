@@ -5,7 +5,7 @@ using GigaPenterEngine.Input;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
 
-namespace GigaPenter.Renderer.Monogame.Helper;
+namespace GigaPenterEngine.Renderer.Monogame.Helper;
 
 public static class Helpers
 {

@@ -3,7 +3,7 @@ using GigaPenterEngine.BaseComponents;
 using GigaPenterEngine.Core;
 using Vector2 = GigaPenterEngine.Core.Vector2;
 
-namespace GigaPenter.Renderer.ASCII;
+namespace GigaPenterEngine.Renderer.ASCII;
 
 // Renderer akin to something like ncurses, made purely for early testing, jeb na to brasi
 public class RendererSystem : GameSystem

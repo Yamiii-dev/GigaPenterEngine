@@ -1,7 +1,7 @@
 using NAudio.Wave;
 using NAudio.Wave.SampleProviders;
 
-namespace GigaPenter.Audio.NAudio;
+namespace GigaPenterEngine.Audio.NAudio;
 
 public class AudioPlayer
 {

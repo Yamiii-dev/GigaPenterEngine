@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RZqzho3pBlE=",
+  "dgSpecHash": "cVPCcZaaSYY=",
   "success": true,
-  "projectFilePath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/GigaPenter.Renderer.Monogame.csproj",
+  "projectFilePath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Renderer.Monogame/GigaPenterEngine.Renderer.Monogame.csproj",
   "expectedPackageFiles": [
     "/home/belle/.nuget/packages/monogame.framework.desktopgl/3.8.4.1/monogame.framework.desktopgl.3.8.4.1.nupkg.sha512",
     "/home/belle/.nuget/packages/monogame.library.openal/1.24.3.2/monogame.library.openal.1.24.3.2.nupkg.sha512",

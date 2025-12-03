@@ -1,0 +1,16 @@
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/bin/Debug/net9.0/GigaPenter.Audio.NAudio.deps.json
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/bin/Debug/net9.0/GigaPenter.Audio.NAudio.dll
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/bin/Debug/net9.0/GigaPenter.Audio.NAudio.pdb
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/bin/Debug/net9.0/GigaPenterEngine.dll
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/bin/Debug/net9.0/GigaPenterEngine.pdb
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/obj/Debug/net9.0/GigaPenter.Audio.NAudio.csproj.AssemblyReference.cache
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/obj/Debug/net9.0/GigaPenter.Audio.NAudio.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/obj/Debug/net9.0/GigaPenter.Audio.NAudio.AssemblyInfoInputs.cache
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/obj/Debug/net9.0/GigaPenter.Audio.NAudio.AssemblyInfo.cs
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/obj/Debug/net9.0/GigaPenter.Audio.NAudio.csproj.CoreCompileInputs.cache
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/obj/Debug/net9.0/GigaPenter.Audio.NAudio.sourcelink.json
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/obj/Debug/net9.0/GigaPent.70DE5FB9.Up2Date
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/obj/Debug/net9.0/GigaPenter.Audio.NAudio.dll
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/obj/Debug/net9.0/refint/GigaPenter.Audio.NAudio.dll
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/obj/Debug/net9.0/GigaPenter.Audio.NAudio.pdb
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/obj/Debug/net9.0/ref/GigaPenter.Audio.NAudio.dll

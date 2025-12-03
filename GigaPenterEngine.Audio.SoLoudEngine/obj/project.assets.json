@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Sharploud/2020.2.7": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Sharploud.dll": {},
+          "lib/netstandard2.1/soloud_x64.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Sharploud.dll": {},
+          "lib/netstandard2.1/soloud_x64.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sharploud/2020.2.7": {
+      "sha512": "yj0eP2SPnMQRfzRfJ/bHtm9FdJEoj7Aukka5D85wWqCdrzdEjVFm/FzaDDI48/ykjU8LG9ZDRoTrlaJ5+MltoQ==",
+      "type": "package",
+      "path": "sharploud/2020.2.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.1/Sharploud.dll",
+        "lib/netstandard2.1/soloud_x64.dll",
+        "sharploud.2020.2.7.nupkg.sha512",
+        "sharploud.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Sharploud >= 2020.2.7"
+    ]
+  },
+  "packageFolders": {
+    "/home/belle/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.SoLoudEngine/GigaPenterEngine.Audio.SoLoudEngine.csproj",
+      "projectName": "GigaPenterEngine.Audio.SoLoudEngine",
+      "projectPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.SoLoudEngine/GigaPenterEngine.Audio.SoLoudEngine.csproj",
+      "packagesPath": "/home/belle/.nuget/packages/",
+      "outputPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.SoLoudEngine/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/belle/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "Sharploud": {
+            "target": "Package",
+            "version": "[2020.2.7, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/home/belle/.dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

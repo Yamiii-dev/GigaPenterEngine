@@ -1,6 +1,6 @@
 using GigaPenterEngine.Core;
 
-namespace GigaPenter.Renderer.Monogame;
+namespace GigaPenterEngine.Renderer.Monogame;
 
 public class CameraComponent : Component
 {

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.ASCII/GigaPenter.Renderer.ASCII.csproj",
-      "projectName": "GigaPenter.Renderer.ASCII",
-      "projectPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.ASCII/GigaPenter.Renderer.ASCII.csproj",
+      "projectUniqueName": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Renderer.ASCII/GigaPenterEngine.Renderer.ASCII.csproj",
+      "projectName": "GigaPenterEngine.Renderer.ASCII",
+      "projectPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Renderer.ASCII/GigaPenterEngine.Renderer.ASCII.csproj",
       "packagesPath": "/home/belle/.nuget/packages/",
-      "outputPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.ASCII/obj/",
+      "outputPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Renderer.ASCII/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/belle/.nuget/NuGet/NuGet.Config"

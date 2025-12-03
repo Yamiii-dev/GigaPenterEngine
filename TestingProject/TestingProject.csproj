@@ -8,12 +8,16 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\GigaPenter.Renderer.Monogame\GigaPenter.Renderer.Monogame.csproj" />
+      <ProjectReference Include="..\GigaPenterEngine.Audio.MiniAudio\GigaPenterEngine.Audio.MiniAudio.csproj" />
+      <ProjectReference Include="..\GigaPenterEngine.Renderer.Monogame\GigaPenterEngine.Renderer.Monogame.csproj" />
       <ProjectReference Include="..\GigaPenterEngine\GigaPenterEngine.csproj" />
     </ItemGroup>
 
     <ItemGroup>
       <None Update="images\test.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="sounds\test.wav">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
     </ItemGroup>

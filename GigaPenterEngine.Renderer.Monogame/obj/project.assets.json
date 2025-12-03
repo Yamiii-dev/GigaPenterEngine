@@ -317,11 +317,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/GigaPenter.Renderer.Monogame.csproj",
-      "projectName": "GigaPenter.Renderer.Monogame",
-      "projectPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/GigaPenter.Renderer.Monogame.csproj",
+      "projectUniqueName": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Renderer.Monogame/GigaPenterEngine.Renderer.Monogame.csproj",
+      "projectName": "GigaPenterEngine.Renderer.Monogame",
+      "projectPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Renderer.Monogame/GigaPenterEngine.Renderer.Monogame.csproj",
       "packagesPath": "/home/belle/.nuget/packages/",
-      "outputPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/obj/",
+      "outputPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Renderer.Monogame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/belle/.nuget/NuGet/NuGet.Config"

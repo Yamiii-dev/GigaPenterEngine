@@ -1,8 +1,8 @@
-using GigaPenter.Renderer.Monogame.Helper;
 using GigaPenterEngine.Input;
+using GigaPenterEngine.Renderer.Monogame.Helper;
 using Microsoft.Xna.Framework.Input;
 
-namespace GigaPenter.Renderer.Monogame.Input;
+namespace GigaPenterEngine.Renderer.Monogame.Input;
 
 public static class InputHandler
 {

@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
-using GigaPenter.Renderer.Monogame.Helper;
-using GigaPenter.Renderer.Monogame.Input;
 using GigaPenterEngine.BaseComponents;
 using GigaPenterEngine.Core;
+using GigaPenterEngine.Renderer.Monogame.Helper;
+using GigaPenterEngine.Renderer.Monogame.Input;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
@@ -13,7 +13,7 @@ using Game = GigaPenterEngine.Game;
 using Vector2 = Microsoft.Xna.Framework.Vector2;
 using Vector3 = Microsoft.Xna.Framework.Vector3;
 
-namespace GigaPenter.Renderer.Monogame;
+namespace GigaPenterEngine.Renderer.Monogame;
 
 public class RendererSystem : GameSystem
 {

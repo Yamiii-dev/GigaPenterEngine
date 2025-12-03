@@ -9,3 +9,4 @@
 /run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/obj/Debug/net9.0/refint/GigaPenterEngine.dll
 /run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/obj/Debug/net9.0/GigaPenterEngine.pdb
 /run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/obj/Debug/net9.0/ref/GigaPenterEngine.dll
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/obj/Debug/net9.0/GigaPenterEngine.sourcelink.json

@@ -472,11 +472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/GigaPenter.Audio.NAudio.csproj",
-      "projectName": "GigaPenter.Audio.NAudio",
-      "projectPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/GigaPenter.Audio.NAudio.csproj",
+      "projectUniqueName": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.NAudio/GigaPenterEngine.Audio.NAudio.csproj",
+      "projectName": "GigaPenterEngine.Audio.NAudio",
+      "projectPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.NAudio/GigaPenterEngine.Audio.NAudio.csproj",
       "packagesPath": "/home/belle/.nuget/packages/",
-      "outputPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/obj/",
+      "outputPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.NAudio/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/belle/.nuget/NuGet/NuGet.Config"

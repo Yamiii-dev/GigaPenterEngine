@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+5WPC2+oeww=",
+  "dgSpecHash": "J+SHD9gQHig=",
   "success": true,
-  "projectFilePath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Audio.NAudio/GigaPenter.Audio.NAudio.csproj",
+  "projectFilePath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.NAudio/GigaPenterEngine.Audio.NAudio.csproj",
   "expectedPackageFiles": [
     "/home/belle/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "/home/belle/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",

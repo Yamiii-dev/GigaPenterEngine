@@ -1,6 +1,6 @@
 using SoLoud;
 
-namespace GigaPenter.Audio.SoLoudEngine.Audio;
+namespace GigaPenterEngine.Audio.SoLoudEngine.Audio;
 
 public class AudioFile
 {

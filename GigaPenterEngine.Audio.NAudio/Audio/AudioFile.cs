@@ -1,6 +1,6 @@
 using NAudio.Wave;
 
-namespace GigaPenter.Audio.NAudio;
+namespace GigaPenterEngine.Audio.NAudio;
 
 public class AudioFile
 {

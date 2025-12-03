@@ -1,7 +1,7 @@
 using System.Drawing;
 using GigaPenterEngine.Core;
 
-namespace GigaPenter.Renderer.ASCII;
+namespace GigaPenterEngine.Renderer.ASCII;
 
 public class RenderableComponent : Component
 {

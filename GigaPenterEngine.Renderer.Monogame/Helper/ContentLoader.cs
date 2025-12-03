@@ -4,7 +4,7 @@ using System.Drawing;
 using System.IO;
 using StbImageSharp;
 
-namespace GigaPenter.Renderer.Monogame.Helper;
+namespace GigaPenterEngine.Renderer.Monogame.Helper;
 
 // Records all loaded textures, needed for creating a Texture2D
 internal static class TextureRegistry

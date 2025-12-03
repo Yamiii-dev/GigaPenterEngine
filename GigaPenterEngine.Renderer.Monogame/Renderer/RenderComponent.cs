@@ -1,23 +1,24 @@
 using GigaPenterEngine.Core;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
-using Texture = GigaPenter.Renderer.Monogame.Helper.Texture;
+using Texture = GigaPenterEngine.Renderer.Monogame.Helper.Texture;
 
-namespace GigaPenter.Renderer.Monogame;
+namespace GigaPenterEngine.Renderer.Monogame;
 
+using Helper_Texture = Helper.Texture;
 
 public class RenderableComponent : Component
 {
-    public Texture Texture;
+    public Helper_Texture Texture;
     public Color Color;
 
-    public RenderableComponent(Texture texture)
+    public RenderableComponent(Helper_Texture texture)
     {
         Texture = texture;
         Color = Color.White;
     }
     
-    public RenderableComponent(Texture texture, Color color)
+    public RenderableComponent(Helper_Texture texture, Color color)
     {
         Texture = texture;
         Color = color;

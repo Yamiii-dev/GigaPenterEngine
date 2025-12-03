@@ -4,9 +4,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaPenterEngine", "GigaPen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingProject", "TestingProject\TestingProject.csproj", "{23C9E893-5509-4C70-BC87-CE71C82F9853}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaPenter.Renderer.Monogame", "GigaPenter.Renderer.Monogame\GigaPenter.Renderer.Monogame.csproj", "{9DE27394-50D0-4B69-8EF8-D8347DA1A9D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaPenterEngine.Renderer.Monogame", "GigaPenterEngine.Renderer.Monogame\GigaPenterEngine.Renderer.Monogame.csproj", "{9DE27394-50D0-4B69-8EF8-D8347DA1A9D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaPenter.Renderer.ASCII", "GigaPenter.Renderer.ASCII\GigaPenter.Renderer.ASCII.csproj", "{79C93F80-2830-4318-8632-ADBECBC00F18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaPenterEngine.Renderer.ASCII", "GigaPenterEngine.Renderer.ASCII\GigaPenterEngine.Renderer.ASCII.csproj", "{79C93F80-2830-4318-8632-ADBECBC00F18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaPenterEngine.Audio.NAudio", "GigaPenterEngine.Audio.NAudio\GigaPenterEngine.Audio.NAudio.csproj", "{61572479-B21E-4A85-92AB-C38B7C2439CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaPenterEngine.Audio.SoLoudEngine", "GigaPenterEngine.Audio.SoLoudEngine\GigaPenterEngine.Audio.SoLoudEngine.csproj", "{FA0EC8DB-A4E6-42B9-A06D-8448672266CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaPenterEngine.Audio.MiniAudio", "GigaPenterEngine.Audio.MiniAudio\GigaPenterEngine.Audio.MiniAudio.csproj", "{1ADFDB75-B9BD-4DD9-B576-E3AC59B0FCAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +36,17 @@ Global
 		{79C93F80-2830-4318-8632-ADBECBC00F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79C93F80-2830-4318-8632-ADBECBC00F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79C93F80-2830-4318-8632-ADBECBC00F18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61572479-B21E-4A85-92AB-C38B7C2439CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61572479-B21E-4A85-92AB-C38B7C2439CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61572479-B21E-4A85-92AB-C38B7C2439CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61572479-B21E-4A85-92AB-C38B7C2439CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0EC8DB-A4E6-42B9-A06D-8448672266CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0EC8DB-A4E6-42B9-A06D-8448672266CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0EC8DB-A4E6-42B9-A06D-8448672266CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0EC8DB-A4E6-42B9-A06D-8448672266CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ADFDB75-B9BD-4DD9-B576-E3AC59B0FCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADFDB75-B9BD-4DD9-B576-E3AC59B0FCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADFDB75-B9BD-4DD9-B576-E3AC59B0FCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADFDB75-B9BD-4DD9-B576-E3AC59B0FCAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

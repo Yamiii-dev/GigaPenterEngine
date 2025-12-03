@@ -1,7 +1,8 @@
-﻿using GigaPenter.Renderer.Monogame;
-using GigaPenter.Renderer.Monogame.Helper;
-using GigaPenter.Renderer.Monogame.Input;
+﻿using GigaPenterEngine.Renderer.Monogame;
+using GigaPenterEngine.Renderer.Monogame.Helper;
+using GigaPenterEngine.Renderer.Monogame.Input;
 using GigaPenterEngine;
+using GigaPenterEngine.Audio.MiniAudio.Audio;
 using GigaPenterEngine.BaseComponents;
 using GigaPenterEngine.Core;
 using GigaPenterEngine.Input;
@@ -18,12 +19,15 @@ class Program
     {
         Game game = new Game();
         RendererSystem renderer = new RendererSystem(game);
+        AudioPlayer audioPlayer = new AudioPlayer();
         game.AddSystem(renderer);
-        game.AddSystem(new PlayerController());
+        game.AddSystem(audioPlayer);
+        game.AddSystem(new PlayerController(audioPlayer));
         Entity Player = new Entity();
         Player.AddComponent(new Transform());
         Player.AddComponent(new PlayerComponent());
         Player.AddComponent(new RenderableComponent(ContentLoader.LoadTexture("images/test.png")));
+        Player.AddComponent(new AudioSource());
         Player.GetComponent<Transform>().Position = new Vector3(renderer.GetWindowSize().X / 2, renderer.GetWindowSize().Y / 2, 0);
         game.SetFrameRate(144);
         game.Run();
@@ -37,7 +41,16 @@ class Program
 
     public class PlayerController : GameSystem
     {
+        
         private float speed = 150f;
+        private AudioPlayer audioPlayer;
+        private AudioFile clip = new AudioFile("sounds/test.wav");
+
+        public PlayerController(AudioPlayer audioPlayer)
+        {
+            this.audioPlayer = audioPlayer;
+        }
+        
         public override void Update()
         {
             PlayerComponent? player = ComponentRegistry.GetComponents<PlayerComponent>().FirstOrDefault();
@@ -59,6 +72,12 @@ class Program
                 else if (InputHandler.KeyPressed(Key.D))
                 {
                     transform.Position.X += speed * Game.DeltaTime;
+                }
+
+                if (InputHandler.KeyDown(Key.Space))
+                {
+                    //_audioPlayer.PlaySound(_sound);
+                    audioPlayer.PlayClip(player.Parent.GetComponent<AudioSource>(), clip);
                 }
             }
         }
