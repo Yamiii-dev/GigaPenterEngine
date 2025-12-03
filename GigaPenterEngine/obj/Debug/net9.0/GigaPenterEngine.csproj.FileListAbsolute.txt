@@ -1,0 +1,11 @@
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/bin/Debug/net9.0/GigaPenterEngine.deps.json
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/bin/Debug/net9.0/GigaPenterEngine.dll
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/bin/Debug/net9.0/GigaPenterEngine.pdb
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/obj/Debug/net9.0/GigaPenterEngine.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/obj/Debug/net9.0/GigaPenterEngine.AssemblyInfoInputs.cache
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/obj/Debug/net9.0/GigaPenterEngine.AssemblyInfo.cs
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/obj/Debug/net9.0/GigaPenterEngine.csproj.CoreCompileInputs.cache
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/obj/Debug/net9.0/GigaPenterEngine.dll
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/obj/Debug/net9.0/refint/GigaPenterEngine.dll
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/obj/Debug/net9.0/GigaPenterEngine.pdb
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/obj/Debug/net9.0/ref/GigaPenterEngine.dll

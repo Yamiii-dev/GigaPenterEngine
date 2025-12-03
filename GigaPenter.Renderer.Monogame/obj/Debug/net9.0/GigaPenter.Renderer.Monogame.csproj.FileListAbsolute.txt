@@ -1,0 +1,15 @@
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/bin/Debug/net9.0/GigaPenter.Renderer.Monogame.deps.json
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/bin/Debug/net9.0/GigaPenter.Renderer.Monogame.dll
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/bin/Debug/net9.0/GigaPenter.Renderer.Monogame.pdb
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/bin/Debug/net9.0/GigaPenterEngine.dll
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/bin/Debug/net9.0/GigaPenterEngine.pdb
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/obj/Debug/net9.0/GigaPenter.Renderer.Monogame.csproj.AssemblyReference.cache
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/obj/Debug/net9.0/GigaPenter.Renderer.Monogame.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/obj/Debug/net9.0/GigaPenter.Renderer.Monogame.AssemblyInfoInputs.cache
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/obj/Debug/net9.0/GigaPenter.Renderer.Monogame.AssemblyInfo.cs
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/obj/Debug/net9.0/GigaPenter.Renderer.Monogame.csproj.CoreCompileInputs.cache
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/obj/Debug/net9.0/GigaPent.BA7529CC.Up2Date
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/obj/Debug/net9.0/GigaPenter.Renderer.Monogame.dll
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/obj/Debug/net9.0/refint/GigaPenter.Renderer.Monogame.dll
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/obj/Debug/net9.0/GigaPenter.Renderer.Monogame.pdb
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.Monogame/obj/Debug/net9.0/ref/GigaPenter.Renderer.Monogame.dll

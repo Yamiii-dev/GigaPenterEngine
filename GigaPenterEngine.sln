@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaPenterEngine", "GigaPenterEngine\GigaPenterEngine.csproj", "{3EF9DD84-93D8-4CBA-A528-5DF198923F69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingProject", "TestingProject\TestingProject.csproj", "{23C9E893-5509-4C70-BC87-CE71C82F9853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaPenter.Renderer.Monogame", "GigaPenter.Renderer.Monogame\GigaPenter.Renderer.Monogame.csproj", "{9DE27394-50D0-4B69-8EF8-D8347DA1A9D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaPenter.Renderer.ASCII", "GigaPenter.Renderer.ASCII\GigaPenter.Renderer.ASCII.csproj", "{79C93F80-2830-4318-8632-ADBECBC00F18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EF9DD84-93D8-4CBA-A528-5DF198923F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF9DD84-93D8-4CBA-A528-5DF198923F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF9DD84-93D8-4CBA-A528-5DF198923F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF9DD84-93D8-4CBA-A528-5DF198923F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C9E893-5509-4C70-BC87-CE71C82F9853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C9E893-5509-4C70-BC87-CE71C82F9853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C9E893-5509-4C70-BC87-CE71C82F9853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C9E893-5509-4C70-BC87-CE71C82F9853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE27394-50D0-4B69-8EF8-D8347DA1A9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE27394-50D0-4B69-8EF8-D8347DA1A9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE27394-50D0-4B69-8EF8-D8347DA1A9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE27394-50D0-4B69-8EF8-D8347DA1A9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C93F80-2830-4318-8632-ADBECBC00F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C93F80-2830-4318-8632-ADBECBC00F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C93F80-2830-4318-8632-ADBECBC00F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C93F80-2830-4318-8632-ADBECBC00F18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
