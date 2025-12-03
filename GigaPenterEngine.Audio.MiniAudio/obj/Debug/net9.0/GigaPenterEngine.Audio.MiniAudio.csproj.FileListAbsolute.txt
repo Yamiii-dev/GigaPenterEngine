@@ -1,0 +1,16 @@
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/bin/Debug/net9.0/GigaPenterEngine.Audio.MiniAudio.deps.json
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/bin/Debug/net9.0/GigaPenterEngine.Audio.MiniAudio.dll
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/bin/Debug/net9.0/GigaPenterEngine.Audio.MiniAudio.pdb
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/bin/Debug/net9.0/GigaPenterEngine.dll
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/bin/Debug/net9.0/GigaPenterEngine.pdb
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/obj/Debug/net9.0/GigaPenterEngine.Audio.MiniAudio.csproj.AssemblyReference.cache
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/obj/Debug/net9.0/GigaPenterEngine.Audio.MiniAudio.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/obj/Debug/net9.0/GigaPenterEngine.Audio.MiniAudio.AssemblyInfoInputs.cache
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/obj/Debug/net9.0/GigaPenterEngine.Audio.MiniAudio.AssemblyInfo.cs
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/obj/Debug/net9.0/GigaPenterEngine.Audio.MiniAudio.csproj.CoreCompileInputs.cache
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/obj/Debug/net9.0/GigaPenterEngine.Audio.MiniAudio.sourcelink.json
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/obj/Debug/net9.0/GigaPent.CD3D06C3.Up2Date
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/obj/Debug/net9.0/GigaPenterEngine.Audio.MiniAudio.dll
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/obj/Debug/net9.0/refint/GigaPenterEngine.Audio.MiniAudio.dll
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/obj/Debug/net9.0/GigaPenterEngine.Audio.MiniAudio.pdb
+/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/obj/Debug/net9.0/ref/GigaPenterEngine.Audio.MiniAudio.dll
