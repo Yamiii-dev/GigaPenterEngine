@@ -15,6 +15,16 @@ public class Game
     private float _lastUpdate = 0;
     
     public static float DeltaTime = 0;
+
+    public Game()
+    {
+        // Creates an event handler for the game getting closed (used for when a window of a renderer gets closed)
+        // This even handler stops the game loop
+        OnExit += () =>
+        {
+            _running = false;
+        };
+    }
     
     public void Run()
     {
@@ -39,14 +49,6 @@ public class Game
 
     public void Update()
     {
-        // Creates an event handler for the game getting closed (used for when a window of a renderer gets closed)
-        // This even handler stops the game loop
-        OnExit += () =>
-        {
-            _running = false;
-        };
-        // Don't continue the game loop if the game has been closed.
-        if (!_running) return;
         // Calculate deltaTime (the time since our last Update)
         DeltaTime = (float)_timer.Elapsed.TotalSeconds - _lastUpdate;
         _lastUpdate = (float)_timer.Elapsed.TotalSeconds;

@@ -1,8 +1,19 @@
 {
   "version": 2,
+<<<<<<< HEAD:GigaPenterEngine.Renderer.ASCII/obj/project.nuget.cache
   "dgSpecHash": "9LF08zhQqy4=",
   "success": true,
   "projectFilePath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Renderer.ASCII/GigaPenterEngine.Renderer.ASCII.csproj",
   "expectedPackageFiles": [],
+=======
+  "dgSpecHash": "u78PPd+RiSg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Belle\\source\\repos\\Yamiii-dev\\GigaPenterEngine\\GigaPenter.Renderer.ASCII\\GigaPenter.Renderer.ASCII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Belle\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Belle\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Belle\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512"
+  ],
+>>>>>>> 9d8596e1bd703e6c8fbe6104f82ce5c4db81fb02:GigaPenter.Renderer.ASCII/obj/project.nuget.cache
   "logs": []
 }

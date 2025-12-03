@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Q73Amfg2D50=",
+  "dgSpecHash": "MoL5nJKTa10=",
   "success": true,
-  "projectFilePath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/GigaPenterEngine.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Belle\\source\\repos\\Yamiii-dev\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Belle\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Belle\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Belle\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

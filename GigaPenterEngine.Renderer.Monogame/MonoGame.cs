@@ -21,8 +21,9 @@ internal class MonoGame : Microsoft.Xna.Framework.Game
     {
         _graphics = new GraphicsDeviceManager(this);
         IsMouseVisible = true;
+        engineGame = _engineGame;
         // If the framerate of our engine gets changed, change the framerate of the window
-        _engineGame.FrameRateChanged = (frameRate =>
+        engineGame.FrameRateChanged = (frameRate =>
         {
             TargetElapsedTime = TimeSpan.FromSeconds(1 / frameRate);
         });
@@ -48,6 +49,7 @@ internal class MonoGame : Microsoft.Xna.Framework.Game
     protected override void OnExiting(object sender, ExitingEventArgs args)
     {
         base.OnExiting(sender, args);
-        engineGame.RequestExit();
+        if (engineGame != null)
+            engineGame.RequestExit();
     }
 }
