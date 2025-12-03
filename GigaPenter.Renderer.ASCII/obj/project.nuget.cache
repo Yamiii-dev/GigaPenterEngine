@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8DULgC+smL8=",
+  "dgSpecHash": "u78PPd+RiSg=",
   "success": true,
-  "projectFilePath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenter.Renderer.ASCII/GigaPenter.Renderer.ASCII.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Belle\\source\\repos\\Yamiii-dev\\GigaPenterEngine\\GigaPenter.Renderer.ASCII\\GigaPenter.Renderer.ASCII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Belle\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Belle\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Belle\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -9,3 +9,15 @@
 /run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/obj/Debug/net9.0/refint/GigaPenterEngine.dll
 /run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/obj/Debug/net9.0/GigaPenterEngine.pdb
 /run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/obj/Debug/net9.0/ref/GigaPenterEngine.dll
+C:\Users\Belle\source\repos\Yamiii-dev\GigaPenterEngine\GigaPenterEngine\obj\Debug\net9.0\GigaPenterEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belle\source\repos\Yamiii-dev\GigaPenterEngine\GigaPenterEngine\obj\Debug\net9.0\GigaPenterEngine.AssemblyInfoInputs.cache
+C:\Users\Belle\source\repos\Yamiii-dev\GigaPenterEngine\GigaPenterEngine\obj\Debug\net9.0\GigaPenterEngine.AssemblyInfo.cs
+C:\Users\Belle\source\repos\Yamiii-dev\GigaPenterEngine\GigaPenterEngine\obj\Debug\net9.0\GigaPenterEngine.csproj.CoreCompileInputs.cache
+C:\Users\Belle\source\repos\Yamiii-dev\GigaPenterEngine\GigaPenterEngine\obj\Debug\net9.0\GigaPenterEngine.sourcelink.json
+C:\Users\Belle\source\repos\Yamiii-dev\GigaPenterEngine\GigaPenterEngine\obj\Debug\net9.0\GigaPenterEngine.dll
+C:\Users\Belle\source\repos\Yamiii-dev\GigaPenterEngine\GigaPenterEngine\obj\Debug\net9.0\refint\GigaPenterEngine.dll
+C:\Users\Belle\source\repos\Yamiii-dev\GigaPenterEngine\GigaPenterEngine\obj\Debug\net9.0\GigaPenterEngine.pdb
+C:\Users\Belle\source\repos\Yamiii-dev\GigaPenterEngine\GigaPenterEngine\bin\Debug\net9.0\GigaPenterEngine.deps.json
+C:\Users\Belle\source\repos\Yamiii-dev\GigaPenterEngine\GigaPenterEngine\bin\Debug\net9.0\GigaPenterEngine.dll
+C:\Users\Belle\source\repos\Yamiii-dev\GigaPenterEngine\GigaPenterEngine\bin\Debug\net9.0\GigaPenterEngine.pdb
+C:\Users\Belle\source\repos\Yamiii-dev\GigaPenterEngine\GigaPenterEngine\obj\Debug\net9.0\ref\GigaPenterEngine.dll
