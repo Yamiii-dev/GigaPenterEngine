@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mmxfKSjknAs=",
+  "dgSpecHash": "qbAFd/wQQYg=",
   "success": true,
-  "projectFilePath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.SoLoudEngine/GigaPenterEngine.Audio.SoLoudEngine.csproj",
+  "projectFilePath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Audio.SoLoudEngine\\GigaPenterEngine.Audio.SoLoudEngine.csproj",
   "expectedPackageFiles": [
-    "/home/belle/.nuget/packages/sharploud/2020.2.7/sharploud.2020.2.7.nupkg.sha512"
+    "C:\\Users\\Belle\\.nuget\\packages\\sharploud\\2020.2.7\\sharploud.2020.2.7.nupkg.sha512"
   ],
   "logs": []
 }

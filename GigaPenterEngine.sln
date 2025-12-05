@@ -1,5 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11222.15 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaPenterEngine", "GigaPenterEngine\GigaPenterEngine.csproj", "{3EF9DD84-93D8-4CBA-A528-5DF198923F69}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingProject", "TestingProject\TestingProject.csproj", "{23C9E893-5509-4C70-BC87-CE71C82F9853}"
@@ -13,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaPenterEngine.Audio.SoLoudEngine", "GigaPenterEngine.Audio.SoLoudEngine\GigaPenterEngine.Audio.SoLoudEngine.csproj", "{FA0EC8DB-A4E6-42B9-A06D-8448672266CC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaPenterEngine.Audio.MiniAudio", "GigaPenterEngine.Audio.MiniAudio\GigaPenterEngine.Audio.MiniAudio.csproj", "{1ADFDB75-B9BD-4DD9-B576-E3AC59B0FCAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaPenterEngine.Renderer.PentaKit", "GigaPenterEngine.Renderer.PentaKit\GigaPenterEngine.Renderer.PentaKit.csproj", "{9E4A0432-B37F-469E-A01F-C04A35CE2DF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,5 +53,15 @@ Global
 		{1ADFDB75-B9BD-4DD9-B576-E3AC59B0FCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ADFDB75-B9BD-4DD9-B576-E3AC59B0FCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ADFDB75-B9BD-4DD9-B576-E3AC59B0FCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4A0432-B37F-469E-A01F-C04A35CE2DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4A0432-B37F-469E-A01F-C04A35CE2DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4A0432-B37F-469E-A01F-C04A35CE2DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4A0432-B37F-469E-A01F-C04A35CE2DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D215DE5-2052-4F1B-85AF-7DD3516C5A10}
 	EndGlobalSection
 EndGlobal

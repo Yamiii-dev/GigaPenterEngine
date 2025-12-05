@@ -98,32 +98,34 @@
     ]
   },
   "packageFolders": {
-    "/home/belle/.nuget/packages/": {}
+    "C:\\Users\\Belle\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/GigaPenterEngine.Audio.MiniAudio.csproj",
+      "projectUniqueName": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Audio.MiniAudio\\GigaPenterEngine.Audio.MiniAudio.csproj",
       "projectName": "GigaPenterEngine.Audio.MiniAudio",
-      "projectPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/GigaPenterEngine.Audio.MiniAudio.csproj",
-      "packagesPath": "/home/belle/.nuget/packages/",
-      "outputPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Audio.MiniAudio/obj/",
+      "projectPath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Audio.MiniAudio\\GigaPenterEngine.Audio.MiniAudio.csproj",
+      "packagesPath": "C:\\Users\\Belle\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Audio.MiniAudio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/belle/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Belle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/GigaPenterEngine.csproj": {
-              "projectPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/GigaPenterEngine.csproj"
+            "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj": {
+              "projectPath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj"
             }
           }
         }
@@ -165,7 +167,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/belle/.dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

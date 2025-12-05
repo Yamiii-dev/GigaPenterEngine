@@ -1,0 +1,16 @@
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.PentaKit\bin\Debug\net9.0\GigaPenterEngine.Renderer.PentaKit.deps.json
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.PentaKit\bin\Debug\net9.0\GigaPenterEngine.Renderer.PentaKit.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.PentaKit\bin\Debug\net9.0\GigaPenterEngine.Renderer.PentaKit.pdb
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.PentaKit\bin\Debug\net9.0\GigaPenterEngine.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.PentaKit\bin\Debug\net9.0\GigaPenterEngine.pdb
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.PentaKit\obj\Debug\net9.0\GigaPenterEngine.Renderer.PentaKit.csproj.AssemblyReference.cache
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.PentaKit\obj\Debug\net9.0\GigaPenterEngine.Renderer.PentaKit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.PentaKit\obj\Debug\net9.0\GigaPenterEngine.Renderer.PentaKit.AssemblyInfoInputs.cache
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.PentaKit\obj\Debug\net9.0\GigaPenterEngine.Renderer.PentaKit.AssemblyInfo.cs
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.PentaKit\obj\Debug\net9.0\GigaPenterEngine.Renderer.PentaKit.csproj.CoreCompileInputs.cache
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.PentaKit\obj\Debug\net9.0\GigaPenterEngine.Renderer.PentaKit.sourcelink.json
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.PentaKit\obj\Debug\net9.0\GigaPent.46BE67D2.Up2Date
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.PentaKit\obj\Debug\net9.0\GigaPenterEngine.Renderer.PentaKit.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.PentaKit\obj\Debug\net9.0\refint\GigaPenterEngine.Renderer.PentaKit.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.PentaKit\obj\Debug\net9.0\GigaPenterEngine.Renderer.PentaKit.pdb
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.PentaKit\obj\Debug\net9.0\ref\GigaPenterEngine.Renderer.PentaKit.dll

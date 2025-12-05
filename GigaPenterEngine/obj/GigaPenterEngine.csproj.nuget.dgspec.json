@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Belle\\source\\repos\\Yamiii-dev\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj": {}
+    "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Belle\\source\\repos\\Yamiii-dev\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj": {
+    "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Belle\\source\\repos\\Yamiii-dev\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj",
+        "projectUniqueName": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj",
         "projectName": "GigaPenterEngine",
-        "projectPath": "C:\\Users\\Belle\\source\\repos\\Yamiii-dev\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj",
+        "projectPath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj",
         "packagesPath": "C:\\Users\\Belle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Belle\\source\\repos\\Yamiii-dev\\GigaPenterEngine\\GigaPenterEngine\\obj\\",
+        "outputPath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Belle\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,20 +56,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.11, 9.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.11, 9.0.11]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.11, 9.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

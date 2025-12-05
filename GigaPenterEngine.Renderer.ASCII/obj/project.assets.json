@@ -32,19 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD:GigaPenterEngine.Renderer.ASCII/obj/project.assets.json
-      "projectUniqueName": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Renderer.ASCII/GigaPenterEngine.Renderer.ASCII.csproj",
+      "projectUniqueName": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Renderer.ASCII\\GigaPenterEngine.Renderer.ASCII.csproj",
       "projectName": "GigaPenterEngine.Renderer.ASCII",
-      "projectPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Renderer.ASCII/GigaPenterEngine.Renderer.ASCII.csproj",
-      "packagesPath": "/home/belle/.nuget/packages/",
-      "outputPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Renderer.ASCII/obj/",
-=======
-      "projectUniqueName": "C:\\Users\\Belle\\source\\repos\\Yamiii-dev\\GigaPenterEngine\\GigaPenter.Renderer.ASCII\\GigaPenter.Renderer.ASCII.csproj",
-      "projectName": "GigaPenter.Renderer.ASCII",
-      "projectPath": "C:\\Users\\Belle\\source\\repos\\Yamiii-dev\\GigaPenterEngine\\GigaPenter.Renderer.ASCII\\GigaPenter.Renderer.ASCII.csproj",
+      "projectPath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Renderer.ASCII\\GigaPenterEngine.Renderer.ASCII.csproj",
       "packagesPath": "C:\\Users\\Belle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Belle\\source\\repos\\Yamiii-dev\\GigaPenterEngine\\GigaPenter.Renderer.ASCII\\obj\\",
->>>>>>> 9d8596e1bd703e6c8fbe6104f82ce5c4db81fb02:GigaPenter.Renderer.ASCII/obj/project.assets.json
+      "outputPath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Renderer.ASCII\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Belle\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,8 +53,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Belle\\source\\repos\\Yamiii-dev\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj": {
-              "projectPath": "C:\\Users\\Belle\\source\\repos\\Yamiii-dev\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj"
+            "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj": {
+              "projectPath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj"
             }
           }
         }
@@ -93,20 +85,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[9.0.11, 9.0.11]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[9.0.11, 9.0.11]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[9.0.11, 9.0.11]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

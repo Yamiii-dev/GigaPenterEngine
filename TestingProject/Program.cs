@@ -1,11 +1,10 @@
-﻿using GigaPenterEngine.Renderer.Monogame;
-using GigaPenterEngine.Renderer.Monogame.Helper;
-using GigaPenterEngine.Renderer.Monogame.Input;
-using GigaPenterEngine;
+﻿using GigaPenterEngine;
 using GigaPenterEngine.Audio.MiniAudio.Audio;
 using GigaPenterEngine.BaseComponents;
 using GigaPenterEngine.Core;
 using GigaPenterEngine.Input;
+using GigaPenterEngine.Renderer.PentaKit;
+using GigaPenterEngine.Renderer.PentaKit.Input;
 
 namespace TestingProject;
 
@@ -17,8 +16,10 @@ class Program
     static float deltaTime = 0;
     static void Main(string[] args)
     {
+        int width = 800;
+        int height = 600;
         Game game = new Game();
-        RendererSystem renderer = new RendererSystem(game);
+        RendererSystem renderer = new RendererSystem(width, height, "Penter hra", game);
         AudioPlayer audioPlayer = new AudioPlayer();
         game.AddSystem(renderer);
         game.AddSystem(audioPlayer);
@@ -26,9 +27,9 @@ class Program
         Entity Player = new Entity();
         Player.AddComponent(new Transform());
         Player.AddComponent(new PlayerComponent());
-        Player.AddComponent(new RenderableComponent(ContentLoader.LoadTexture("images/test.png")));
+        Player.AddComponent(new SpriteRenderer("images/test.png"));
         Player.AddComponent(new AudioSource());
-        Player.GetComponent<Transform>().Position = new Vector3(renderer.GetWindowSize().X / 2, renderer.GetWindowSize().Y / 2, 0);
+        //Player.GetComponent<Transform>().Position = new Vector3(width / 2, height / 2, 0);
         game.SetFrameRate(144);
         game.Run();
         
@@ -42,7 +43,7 @@ class Program
     public class PlayerController : GameSystem
     {
         
-        private float speed = 150f;
+        private float speed = 1f;
         private AudioPlayer audioPlayer;
         private AudioFile clip = new AudioFile("sounds/test.wav");
 
@@ -57,24 +58,24 @@ class Program
             if (player != null)
             {
                 Transform transform = player.Parent.GetComponent<Transform>();
-                if (InputHandler.KeyPressed(Key.W))
-                {
-                    transform.Position.Y -= speed * Game.DeltaTime;
-                }
-                else if (InputHandler.KeyPressed(Key.S))
+                if (InputHandler.instance.KeyDown(Key.W))
                 {
                     transform.Position.Y += speed * Game.DeltaTime;
                 }
-                if (InputHandler.KeyPressed(Key.A))
+                else if (InputHandler.instance.KeyDown(Key.S))
+                {
+                    transform.Position.Y -= speed * Game.DeltaTime;
+                }
+                if (InputHandler.instance.KeyDown(Key.A))
                 {
                     transform.Position.X -= speed * Game.DeltaTime;
                 }
-                else if (InputHandler.KeyPressed(Key.D))
+                else if (InputHandler.instance.KeyDown(Key.D))
                 {
                     transform.Position.X += speed * Game.DeltaTime;
                 }
 
-                if (InputHandler.KeyDown(Key.Space))
+                if (InputHandler.instance.KeyPressed(Key.Space))
                 {
                     //_audioPlayer.PlaySound(_sound);
                     audioPlayer.PlayClip(player.Parent.GetComponent<AudioSource>(), clip);

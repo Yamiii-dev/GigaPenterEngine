@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Renderer.ASCII/GigaPenterEngine.Renderer.ASCII.csproj": {}
+    "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Renderer.ASCII\\GigaPenterEngine.Renderer.ASCII.csproj": {}
   },
   "projects": {
-    "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Renderer.ASCII/GigaPenterEngine.Renderer.ASCII.csproj": {
+    "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Renderer.ASCII\\GigaPenterEngine.Renderer.ASCII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Renderer.ASCII/GigaPenterEngine.Renderer.ASCII.csproj",
+        "projectUniqueName": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Renderer.ASCII\\GigaPenterEngine.Renderer.ASCII.csproj",
         "projectName": "GigaPenterEngine.Renderer.ASCII",
-        "projectPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Renderer.ASCII/GigaPenterEngine.Renderer.ASCII.csproj",
-        "packagesPath": "/home/belle/.nuget/packages/",
-        "outputPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine.Renderer.ASCII/obj/",
+        "projectPath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Renderer.ASCII\\GigaPenterEngine.Renderer.ASCII.csproj",
+        "packagesPath": "C:\\Users\\Belle\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Renderer.ASCII\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/belle/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Belle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/GigaPenterEngine.csproj": {
-                "projectPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/GigaPenterEngine.csproj"
+              "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj": {
+                "projectPath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj"
               }
             }
           }
@@ -63,26 +65,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/belle/.dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/GigaPenterEngine.csproj": {
+    "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/GigaPenterEngine.csproj",
+        "projectUniqueName": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj",
         "projectName": "GigaPenterEngine",
-        "projectPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/GigaPenterEngine.csproj",
-        "packagesPath": "/home/belle/.nuget/packages/",
-        "outputPath": "/run/media/belle/FCF2-E945/Projects/GigaPenterEngine/GigaPenterEngine/obj/",
+        "projectPath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine\\GigaPenterEngine.csproj",
+        "packagesPath": "C:\\Users\\Belle\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/belle/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Belle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -122,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/belle/.dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

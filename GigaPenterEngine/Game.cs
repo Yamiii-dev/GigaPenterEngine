@@ -71,7 +71,8 @@ public class Game
     public void SetFrameRate(int frameRate)
     {
         this._frameRate = frameRate;
-        FrameRateChanged.Invoke(this._frameRate);
+        if(FrameRateChanged != null)
+            FrameRateChanged.Invoke(this._frameRate);
     }
     public Action<float>? FrameRateChanged { get; set; }
     

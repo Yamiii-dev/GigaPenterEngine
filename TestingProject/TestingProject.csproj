@@ -9,7 +9,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\GigaPenterEngine.Audio.MiniAudio\GigaPenterEngine.Audio.MiniAudio.csproj" />
-      <ProjectReference Include="..\GigaPenterEngine.Renderer.Monogame\GigaPenterEngine.Renderer.Monogame.csproj" />
+      <ProjectReference Include="..\GigaPenterEngine.Renderer.PentaKit\GigaPenterEngine.Renderer.PentaKit.csproj" />
       <ProjectReference Include="..\GigaPenterEngine\GigaPenterEngine.csproj" />
     </ItemGroup>
 
