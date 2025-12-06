@@ -48,3 +48,5 @@ D:\Projects\GigaPenterEngine\TestingProject\obj\Debug\net9.0\refint\TestingProje
 D:\Projects\GigaPenterEngine\TestingProject\obj\Debug\net9.0\TestingProject.pdb
 D:\Projects\GigaPenterEngine\TestingProject\obj\Debug\net9.0\TestingProject.genruntimeconfig.cache
 D:\Projects\GigaPenterEngine\TestingProject\obj\Debug\net9.0\ref\TestingProject.dll
+D:\Projects\GigaPenterEngine\TestingProject\bin\Debug\net9.0\GigaPenterEngine.Networking.dll
+D:\Projects\GigaPenterEngine\TestingProject\bin\Debug\net9.0\GigaPenterEngine.Networking.pdb

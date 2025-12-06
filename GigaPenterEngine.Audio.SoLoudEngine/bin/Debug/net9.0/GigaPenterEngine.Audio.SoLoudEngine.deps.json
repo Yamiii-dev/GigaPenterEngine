@@ -1,0 +1,44 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GigaPenterEngine.Audio.SoLoudEngine/1.0.0": {
+        "dependencies": {
+          "Sharploud": "2020.2.7"
+        },
+        "runtime": {
+          "GigaPenterEngine.Audio.SoLoudEngine.dll": {}
+        }
+      },
+      "Sharploud/2020.2.7": {
+        "runtime": {
+          "lib/netstandard2.1/Sharploud.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.1/soloud_x64.dll": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GigaPenterEngine.Audio.SoLoudEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sharploud/2020.2.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yj0eP2SPnMQRfzRfJ/bHtm9FdJEoj7Aukka5D85wWqCdrzdEjVFm/FzaDDI48/ykjU8LG9ZDRoTrlaJ5+MltoQ==",
+      "path": "sharploud/2020.2.7",
+      "hashPath": "sharploud.2020.2.7.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.NAudio\bin\Debug\net9.0\GigaPenterEngine.Audio.NAudio.deps.json
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.NAudio\bin\Debug\net9.0\GigaPenterEngine.Audio.NAudio.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.NAudio\bin\Debug\net9.0\GigaPenterEngine.Audio.NAudio.pdb
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.NAudio\bin\Debug\net9.0\GigaPenterEngine.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.NAudio\bin\Debug\net9.0\GigaPenterEngine.pdb
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.NAudio\obj\Debug\net9.0\GigaPenterEngine.Audio.NAudio.csproj.AssemblyReference.cache
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.NAudio\obj\Debug\net9.0\GigaPenterEngine.Audio.NAudio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.NAudio\obj\Debug\net9.0\GigaPenterEngine.Audio.NAudio.AssemblyInfoInputs.cache
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.NAudio\obj\Debug\net9.0\GigaPenterEngine.Audio.NAudio.AssemblyInfo.cs
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.NAudio\obj\Debug\net9.0\GigaPenterEngine.Audio.NAudio.csproj.CoreCompileInputs.cache
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.NAudio\obj\Debug\net9.0\GigaPenterEngine.Audio.NAudio.sourcelink.json
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.NAudio\obj\Debug\net9.0\GigaPent.B5D08872.Up2Date
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.NAudio\obj\Debug\net9.0\GigaPenterEngine.Audio.NAudio.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.NAudio\obj\Debug\net9.0\refint\GigaPenterEngine.Audio.NAudio.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.NAudio\obj\Debug\net9.0\GigaPenterEngine.Audio.NAudio.pdb
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.NAudio\obj\Debug\net9.0\ref\GigaPenterEngine.Audio.NAudio.dll

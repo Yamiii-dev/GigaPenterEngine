@@ -10,6 +10,7 @@
         "dependencies": {
           "GigaPenterEngine": "1.0.0",
           "GigaPenterEngine.Audio.MiniAudio": "1.0.0",
+          "GigaPenterEngine.Networking": "1.0.0",
           "GigaPenterEngine.Renderer.PentaKit": "1.0.0"
         },
         "runtime": {
@@ -235,6 +236,17 @@
           }
         }
       },
+      "GigaPenterEngine.Networking/1.0.0": {
+        "dependencies": {
+          "GigaPenterEngine": "1.0.0"
+        },
+        "runtime": {
+          "GigaPenterEngine.Networking.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "GigaPenterEngine.Renderer.PentaKit/1.0.0": {
         "dependencies": {
           "GigaPenterEngine": "1.0.0",
@@ -353,6 +365,11 @@
       "sha512": ""
     },
     "GigaPenterEngine.Audio.MiniAudio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GigaPenterEngine.Networking/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

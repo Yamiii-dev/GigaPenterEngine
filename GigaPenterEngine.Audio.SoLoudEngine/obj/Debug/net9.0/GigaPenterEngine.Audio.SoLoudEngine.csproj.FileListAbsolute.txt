@@ -1,0 +1,13 @@
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.SoLoudEngine\bin\Debug\net9.0\GigaPenterEngine.Audio.SoLoudEngine.deps.json
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.SoLoudEngine\bin\Debug\net9.0\GigaPenterEngine.Audio.SoLoudEngine.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.SoLoudEngine\bin\Debug\net9.0\GigaPenterEngine.Audio.SoLoudEngine.pdb
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.SoLoudEngine\obj\Debug\net9.0\GigaPenterEngine.Audio.SoLoudEngine.csproj.AssemblyReference.cache
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.SoLoudEngine\obj\Debug\net9.0\GigaPenterEngine.Audio.SoLoudEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.SoLoudEngine\obj\Debug\net9.0\GigaPenterEngine.Audio.SoLoudEngine.AssemblyInfoInputs.cache
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.SoLoudEngine\obj\Debug\net9.0\GigaPenterEngine.Audio.SoLoudEngine.AssemblyInfo.cs
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.SoLoudEngine\obj\Debug\net9.0\GigaPenterEngine.Audio.SoLoudEngine.csproj.CoreCompileInputs.cache
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.SoLoudEngine\obj\Debug\net9.0\GigaPenterEngine.Audio.SoLoudEngine.sourcelink.json
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.SoLoudEngine\obj\Debug\net9.0\GigaPenterEngine.Audio.SoLoudEngine.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.SoLoudEngine\obj\Debug\net9.0\refint\GigaPenterEngine.Audio.SoLoudEngine.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.SoLoudEngine\obj\Debug\net9.0\GigaPenterEngine.Audio.SoLoudEngine.pdb
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Audio.SoLoudEngine\obj\Debug\net9.0\ref\GigaPenterEngine.Audio.SoLoudEngine.dll

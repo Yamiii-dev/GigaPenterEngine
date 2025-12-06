@@ -1,0 +1,16 @@
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.Monogame\bin\Debug\net9.0\GigaPenterEngine.Renderer.Monogame.deps.json
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.Monogame\bin\Debug\net9.0\GigaPenterEngine.Renderer.Monogame.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.Monogame\bin\Debug\net9.0\GigaPenterEngine.Renderer.Monogame.pdb
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.Monogame\bin\Debug\net9.0\GigaPenterEngine.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.Monogame\bin\Debug\net9.0\GigaPenterEngine.pdb
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.Monogame\obj\Debug\net9.0\GigaPenterEngine.Renderer.Monogame.csproj.AssemblyReference.cache
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.Monogame\obj\Debug\net9.0\GigaPenterEngine.Renderer.Monogame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.Monogame\obj\Debug\net9.0\GigaPenterEngine.Renderer.Monogame.AssemblyInfoInputs.cache
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.Monogame\obj\Debug\net9.0\GigaPenterEngine.Renderer.Monogame.AssemblyInfo.cs
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.Monogame\obj\Debug\net9.0\GigaPenterEngine.Renderer.Monogame.csproj.CoreCompileInputs.cache
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.Monogame\obj\Debug\net9.0\GigaPenterEngine.Renderer.Monogame.sourcelink.json
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.Monogame\obj\Debug\net9.0\GigaPent.D8F5E3F5.Up2Date
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.Monogame\obj\Debug\net9.0\GigaPenterEngine.Renderer.Monogame.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.Monogame\obj\Debug\net9.0\refint\GigaPenterEngine.Renderer.Monogame.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.Monogame\obj\Debug\net9.0\GigaPenterEngine.Renderer.Monogame.pdb
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Renderer.Monogame\obj\Debug\net9.0\ref\GigaPenterEngine.Renderer.Monogame.dll

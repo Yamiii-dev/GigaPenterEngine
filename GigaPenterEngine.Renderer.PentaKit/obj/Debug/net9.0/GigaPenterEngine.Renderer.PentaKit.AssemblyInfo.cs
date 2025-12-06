@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GigaPenterEngine.Renderer.PentaKit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e023f645385706d169fc5e960ea878a6f4c58a8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bc4cdfd2632e5b169decdcebd1291ee4c004e26")]
 [assembly: System.Reflection.AssemblyProductAttribute("GigaPenterEngine.Renderer.PentaKit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GigaPenterEngine.Renderer.PentaKit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

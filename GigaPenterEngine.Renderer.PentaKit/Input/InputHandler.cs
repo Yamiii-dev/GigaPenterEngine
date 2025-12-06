@@ -69,6 +69,7 @@ namespace GigaPenterEngine.Renderer.PentaKit.Input
         {
             if (instance == null)
                 instance = this;
+            else this.Dispose();
         }
         public bool KeyDown(Key key)
         {
@@ -94,21 +95,11 @@ namespace GigaPenterEngine.Renderer.PentaKit.Input
             {
                 if (disposing)
                 {
-                    // TODO: dispose managed state (managed objects)
+                    
                 }
-
-                // TODO: free unmanaged resources (unmanaged objects) and override finalizer
-                // TODO: set large fields to null
                 disposedValue = true;
             }
         }
-
-        // // TODO: override finalizer only if 'Dispose(bool disposing)' has code to free unmanaged resources
-        // ~InputHandler()
-        // {
-        //     // Do not change this code. Put cleanup code in 'Dispose(bool disposing)' method
-        //     Dispose(disposing: false);
-        // }
 
         public void Dispose()
         {

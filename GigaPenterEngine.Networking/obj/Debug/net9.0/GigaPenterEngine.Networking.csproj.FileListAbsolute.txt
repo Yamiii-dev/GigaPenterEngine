@@ -1,0 +1,16 @@
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Networking\obj\Debug\net9.0\GigaPenterEngine.Networking.csproj.AssemblyReference.cache
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Networking\obj\Debug\net9.0\GigaPenterEngine.Networking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Networking\obj\Debug\net9.0\GigaPenterEngine.Networking.AssemblyInfoInputs.cache
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Networking\obj\Debug\net9.0\GigaPenterEngine.Networking.AssemblyInfo.cs
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Networking\obj\Debug\net9.0\GigaPenterEngine.Networking.csproj.CoreCompileInputs.cache
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Networking\obj\Debug\net9.0\GigaPenterEngine.Networking.sourcelink.json
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Networking\bin\Debug\net9.0\GigaPenterEngine.Networking.deps.json
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Networking\bin\Debug\net9.0\GigaPenterEngine.Networking.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Networking\bin\Debug\net9.0\GigaPenterEngine.Networking.pdb
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Networking\bin\Debug\net9.0\GigaPenterEngine.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Networking\bin\Debug\net9.0\GigaPenterEngine.pdb
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Networking\obj\Debug\net9.0\GigaPent.5B13D0BE.Up2Date
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Networking\obj\Debug\net9.0\GigaPenterEngine.Networking.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Networking\obj\Debug\net9.0\refint\GigaPenterEngine.Networking.dll
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Networking\obj\Debug\net9.0\GigaPenterEngine.Networking.pdb
+D:\Projects\GigaPenterEngine\GigaPenterEngine.Networking\obj\Debug\net9.0\ref\GigaPenterEngine.Networking.dll

@@ -285,6 +285,19 @@
           "bin/placeholder/GigaPenterEngine.Audio.MiniAudio.dll": {}
         }
       },
+      "GigaPenterEngine.Networking/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "GigaPenterEngine": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GigaPenterEngine.Networking.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GigaPenterEngine.Networking.dll": {}
+        }
+      },
       "GigaPenterEngine.Renderer.PentaKit/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -557,6 +570,11 @@
       "path": "../GigaPenterEngine.Audio.MiniAudio/GigaPenterEngine.Audio.MiniAudio.csproj",
       "msbuildProject": "../GigaPenterEngine.Audio.MiniAudio/GigaPenterEngine.Audio.MiniAudio.csproj"
     },
+    "GigaPenterEngine.Networking/1.0.0": {
+      "type": "project",
+      "path": "../GigaPenterEngine.Networking/GigaPenterEngine.Networking.csproj",
+      "msbuildProject": "../GigaPenterEngine.Networking/GigaPenterEngine.Networking.csproj"
+    },
     "GigaPenterEngine.Renderer.PentaKit/1.0.0": {
       "type": "project",
       "path": "../GigaPenterEngine.Renderer.PentaKit/GigaPenterEngine.Renderer.PentaKit.csproj",
@@ -567,6 +585,7 @@
     "net9.0": [
       "GigaPenterEngine >= 1.0.0",
       "GigaPenterEngine.Audio.MiniAudio >= 1.0.0",
+      "GigaPenterEngine.Networking >= 1.0.0",
       "GigaPenterEngine.Renderer.PentaKit >= 1.0.0"
     ]
   },
@@ -599,6 +618,9 @@
           "projectReferences": {
             "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Audio.MiniAudio\\GigaPenterEngine.Audio.MiniAudio.csproj": {
               "projectPath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Audio.MiniAudio\\GigaPenterEngine.Audio.MiniAudio.csproj"
+            },
+            "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Networking\\GigaPenterEngine.Networking.csproj": {
+              "projectPath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Networking\\GigaPenterEngine.Networking.csproj"
             },
             "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Renderer.PentaKit\\GigaPenterEngine.Renderer.PentaKit.csproj": {
               "projectPath": "D:\\Projects\\GigaPenterEngine\\GigaPenterEngine.Renderer.PentaKit\\GigaPenterEngine.Renderer.PentaKit.csproj"
